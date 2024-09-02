@@ -1,6 +1,0 @@
-interface Two
-{
-
-void mallaMessage();
-
-}
